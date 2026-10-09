@@ -1,0 +1,1198 @@
+#node	identifier	category	term ID	term description
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0006066	Alcohol metabolic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0006629	Lipid metabolic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0006694	Steroid biosynthetic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0006696	Ergosterol biosynthetic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0008152	Metabolic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0008202	Steroid metabolic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0008204	Ergosterol metabolic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0008610	Lipid biosynthetic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0009058	Biosynthetic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0009987	Cellular process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0016125	Sterol metabolic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0016126	Sterol biosynthetic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0016129	Phytosteroid biosynthetic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0044238	Primary metabolic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0044281	Small molecule metabolic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0044283	Small molecule biosynthetic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:0046165	Alcohol biosynthetic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:1902652	Secondary alcohol metabolic process
+B9J08_000261	498019.A0A2H1A7G3	GO Process	GO:1902653	Secondary alcohol biosynthetic process
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0000166	Nucleotide binding
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0003824	Catalytic activity
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0004497	Monooxygenase activity
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0004506	Squalene monooxygenase activity
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0005488	Binding
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0016491	Oxidoreductase activity
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0016705	Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0016709	Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0036094	Small molecule binding
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0043167	Ion binding
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0043168	Anion binding
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:0050660	Flavin adenine dinucleotide binding
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:1901265	Nucleoside phosphate binding
+B9J08_000261	498019.A0A2H1A7G3	GO Function	GO:1901363	Heterocyclic compound binding
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0005622	Intracellular anatomical structure
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0005737	Cytoplasm
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0005783	Endoplasmic reticulum
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0005789	Endoplasmic reticulum membrane
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0012505	Endomembrane system
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0016020	Membrane
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0031090	Organelle membrane
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0031984	Organelle subcompartment
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0043226	Organelle
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0043227	Membrane-bounded organelle
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0043229	Intracellular organelle
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+B9J08_000261	498019.A0A2H1A7G3	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_000261	498019.A0A2H1A7G3	STRING clusters	CL:7082	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_000261	498019.A0A2H1A7G3	STRING clusters	CL:7083	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_000261	498019.A0A2H1A7G3	STRING clusters	CL:7084	Lipid biosynthetic process, and Cytochrome P450
+B9J08_000261	498019.A0A2H1A7G3	STRING clusters	CL:7085	Mixed, incl. Alcohol biosynthetic process, and Sphingolipid metabolic process
+B9J08_000261	498019.A0A2H1A7G3	STRING clusters	CL:7087	Ergosterol biosynthetic process, and Cytochrome P450
+B9J08_000261	498019.A0A2H1A7G3	STRING clusters	CL:7090	Ergosterol biosynthetic process
+B9J08_000261	498019.A0A2H1A7G3	STRING clusters	CL:7092	Steroid biosynthesis
+B9J08_000261	498019.A0A2H1A7G3	KEGG	caur00100	Steroid biosynthesis
+B9J08_000261	498019.A0A2H1A7G3	KEGG	caur00909	Sesquiterpenoid and triterpenoid biosynthesis
+B9J08_000261	498019.A0A2H1A7G3	KEGG	caur01100	Metabolic pathways
+B9J08_000261	498019.A0A2H1A7G3	KEGG	caur01110	Biosynthesis of secondary metabolites
+B9J08_000261	498019.A0A2H1A7G3	Reactome	MAP-1430728	Metabolism
+B9J08_000261	498019.A0A2H1A7G3	Reactome	MAP-191273	Cholesterol biosynthesis
+B9J08_000261	498019.A0A2H1A7G3	Reactome	MAP-556833	Metabolism of lipids
+B9J08_000261	498019.A0A2H1A7G3	Reactome	MAP-8957322	Metabolism of steroids
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0005737	Cytoplasm
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0005811	Lipid droplet
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0012505	Endomembrane system
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+B9J08_000261	498019.A0A2H1A7G3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_000261	498019.A0A2H1A7G3	UniProt Keywords	KW-0256	Endoplasmic reticulum
+B9J08_000261	498019.A0A2H1A7G3	UniProt Keywords	KW-0274	FAD
+B9J08_000261	498019.A0A2H1A7G3	UniProt Keywords	KW-0285	Flavoprotein
+B9J08_000261	498019.A0A2H1A7G3	UniProt Keywords	KW-0472	Membrane
+B9J08_000261	498019.A0A2H1A7G3	UniProt Keywords	KW-0492	Microsome
+B9J08_000261	498019.A0A2H1A7G3	UniProt Keywords	KW-0560	Oxidoreductase
+B9J08_000261	498019.A0A2H1A7G3	UniProt Keywords	KW-0812	Transmembrane
+B9J08_000261	498019.A0A2H1A7G3	UniProt Keywords	KW-1133	Transmembrane helix
+B9J08_000261	498019.A0A2H1A7G3	Pfam	PF08491	Squalene epoxidase
+B9J08_000261	498019.A0A2H1A7G3	InterPro	IPR013698	Squalene epoxidase
+B9J08_000261	498019.A0A2H1A7G3	InterPro	IPR036188	FAD/NAD(P)-binding domain superfamily
+B9J08_000261	498019.A0A2H1A7G3	InterPro	IPR040125	Squalene monooxygenase
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0006066	Alcohol metabolic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0006629	Lipid metabolic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0006694	Steroid biosynthetic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0006696	Ergosterol biosynthetic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0008152	Metabolic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0008202	Steroid metabolic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0008204	Ergosterol metabolic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0008610	Lipid biosynthetic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0009058	Biosynthetic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0009987	Cellular process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0016125	Sterol metabolic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0016126	Sterol biosynthetic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0016129	Phytosteroid biosynthetic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0044238	Primary metabolic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0044281	Small molecule metabolic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0044283	Small molecule biosynthetic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:0046165	Alcohol biosynthetic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:1902652	Secondary alcohol metabolic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Process	GO:1902653	Secondary alcohol biosynthetic process
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0000254	C-4 methylsterol oxidase activity
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0003824	Catalytic activity
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0004497	Monooxygenase activity
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0005488	Binding
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0005506	Iron ion binding
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0016491	Oxidoreductase activity
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0016705	Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0016716	Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0036094	Small molecule binding
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0043167	Ion binding
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0043169	Cation binding
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0046872	Metal ion binding
+B9J08_000367	498019.A0A2H1A7Q6	GO Function	GO:0046914	Transition metal ion binding
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0005622	Intracellular anatomical structure
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0005737	Cytoplasm
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0005783	Endoplasmic reticulum
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0005789	Endoplasmic reticulum membrane
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0012505	Endomembrane system
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0016020	Membrane
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0031090	Organelle membrane
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0031984	Organelle subcompartment
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0043226	Organelle
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0043227	Membrane-bounded organelle
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0043229	Intracellular organelle
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+B9J08_000367	498019.A0A2H1A7Q6	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_000367	498019.A0A2H1A7Q6	STRING clusters	CL:7082	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_000367	498019.A0A2H1A7Q6	STRING clusters	CL:7083	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_000367	498019.A0A2H1A7Q6	STRING clusters	CL:7084	Lipid biosynthetic process, and Cytochrome P450
+B9J08_000367	498019.A0A2H1A7Q6	STRING clusters	CL:7085	Mixed, incl. Alcohol biosynthetic process, and Sphingolipid metabolic process
+B9J08_000367	498019.A0A2H1A7Q6	STRING clusters	CL:7087	Ergosterol biosynthetic process, and Cytochrome P450
+B9J08_000367	498019.A0A2H1A7Q6	STRING clusters	CL:7090	Ergosterol biosynthetic process
+B9J08_000367	498019.A0A2H1A7Q6	STRING clusters	CL:7092	Steroid biosynthesis
+B9J08_000367	498019.A0A2H1A7Q6	KEGG	caur00100	Steroid biosynthesis
+B9J08_000367	498019.A0A2H1A7Q6	KEGG	caur01100	Metabolic pathways
+B9J08_000367	498019.A0A2H1A7Q6	KEGG	caur01110	Biosynthesis of secondary metabolites
+B9J08_000367	498019.A0A2H1A7Q6	Reactome	MAP-1430728	Metabolism
+B9J08_000367	498019.A0A2H1A7Q6	Reactome	MAP-191273	Cholesterol biosynthesis
+B9J08_000367	498019.A0A2H1A7Q6	Reactome	MAP-192105	Synthesis of bile acids and bile salts
+B9J08_000367	498019.A0A2H1A7Q6	Reactome	MAP-194068	Bile acid and bile salt metabolism
+B9J08_000367	498019.A0A2H1A7Q6	Reactome	MAP-556833	Metabolism of lipids
+B9J08_000367	498019.A0A2H1A7Q6	Reactome	MAP-8957322	Metabolism of steroids
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0005737	Cytoplasm
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0005789	Endoplasmic reticulum membrane
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0005886	Plasma membrane
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0012505	Endomembrane system
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0016020	Membrane
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0031090	Organelle membrane
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0031984	Organelle subcompartment
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0071944	Cell periphery
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0098827	Endoplasmic reticulum subcompartment
+B9J08_000367	498019.A0A2H1A7Q6	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_000367	498019.A0A2H1A7Q6	UniProt Keywords	KW-0472	Membrane
+B9J08_000367	498019.A0A2H1A7Q6	UniProt Keywords	KW-0503	Monooxygenase
+B9J08_000367	498019.A0A2H1A7Q6	UniProt Keywords	KW-0560	Oxidoreductase
+B9J08_000367	498019.A0A2H1A7Q6	UniProt Keywords	KW-0812	Transmembrane
+B9J08_000367	498019.A0A2H1A7Q6	UniProt Keywords	KW-1133	Transmembrane helix
+B9J08_000367	498019.A0A2H1A7Q6	Pfam	PF04116	Fatty acid hydroxylase
+B9J08_000367	498019.A0A2H1A7Q6	InterPro	IPR006694	Fatty acid hydroxylase
+B9J08_000367	498019.A0A2H1A7Q6	InterPro	IPR050307	Sterol Desaturase and Related Enzymes
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0006810	Transport
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0009636	Response to toxic substance
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0009987	Cellular process
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0042221	Response to chemical
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0042908	Xenobiotic transport
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0046618	Xenobiotic export from cell
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0050896	Response to stimulus
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0051179	Localization
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0051234	Establishment of localization
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0055085	Transmembrane transport
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0098754	Detoxification
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0140115	Export across plasma membrane
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:0140352	Export from cell
+B9J08_000479	498019.A0A2H1A801	GO Process	GO:1990961	Xenobiotic detoxification by transmembrane export across the plasma membrane
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0000166	Nucleotide binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0003824	Catalytic activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0005215	Transporter activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0005488	Binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0005524	ATP binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0015399	Primary active transmembrane transporter activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0016462	Pyrophosphatase activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0016787	Hydrolase activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0016887	ATP hydrolysis activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0017076	Purine nucleotide binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0017111	Ribonucleoside triphosphate phosphatase activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0022804	Active transmembrane transporter activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0022857	Transmembrane transporter activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0030554	Adenyl nucleotide binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0032553	Ribonucleotide binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0032555	Purine ribonucleotide binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0032559	Adenyl ribonucleotide binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0036094	Small molecule binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0042626	ATPase-coupled transmembrane transporter activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0043167	Ion binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0043168	Anion binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0097367	Carbohydrate derivative binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0140359	ABC-type transporter activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:0140657	ATP-dependent activity
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:1901265	Nucleoside phosphate binding
+B9J08_000479	498019.A0A2H1A801	GO Function	GO:1901363	Heterocyclic compound binding
+B9J08_000479	498019.A0A2H1A801	GO Component	GO:0016020	Membrane
+B9J08_000479	498019.A0A2H1A801	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_000479	498019.A0A2H1A801	STRING clusters	CL:8843	Mixed, incl. ABC-type transporter activity, and Antiporter activity
+B9J08_000479	498019.A0A2H1A801	STRING clusters	CL:8844	Mixed, incl. ABC-type transporter activity, and MatE
+B9J08_000479	498019.A0A2H1A801	STRING clusters	CL:8847	ABC-type transporter activity, and Amino acid/polyamine transporter I
+B9J08_000479	498019.A0A2H1A801	STRING clusters	CL:8848	ABC-type transporter activity, and Peptidase family M20/M25/M40
+B9J08_000479	498019.A0A2H1A801	STRING clusters	CL:8850	ABC-type transporter activity
+B9J08_000479	498019.A0A2H1A801	STRING clusters	CL:8852	CDR ABC transporter, and Transport of RCbl within the body
+B9J08_000479	498019.A0A2H1A801	KEGG	caur02010	ABC transporters
+B9J08_000479	498019.A0A2H1A801	Reactome	MAP-1369062	ABC transporters in lipid homeostasis
+B9J08_000479	498019.A0A2H1A801	Reactome	MAP-174824	Plasma lipoprotein assembly, remodeling, and clearance
+B9J08_000479	498019.A0A2H1A801	Reactome	MAP-382551	Transport of small molecules
+B9J08_000479	498019.A0A2H1A801	Reactome	MAP-382556	ABC-family proteins mediated transport
+B9J08_000479	498019.A0A2H1A801	Reactome	MAP-8963899	Plasma lipoprotein remodeling
+B9J08_000479	498019.A0A2H1A801	Reactome	MAP-8964058	HDL remodeling
+B9J08_000479	498019.A0A2H1A801	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_000479	498019.A0A2H1A801	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_000479	498019.A0A2H1A801	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_000479	498019.A0A2H1A801	UniProt Keywords	KW-0067	ATP-binding
+B9J08_000479	498019.A0A2H1A801	UniProt Keywords	KW-0472	Membrane
+B9J08_000479	498019.A0A2H1A801	UniProt Keywords	KW-0547	Nucleotide-binding
+B9J08_000479	498019.A0A2H1A801	UniProt Keywords	KW-0677	Repeat
+B9J08_000479	498019.A0A2H1A801	UniProt Keywords	KW-0812	Transmembrane
+B9J08_000479	498019.A0A2H1A801	UniProt Keywords	KW-0813	Transport
+B9J08_000479	498019.A0A2H1A801	UniProt Keywords	KW-1133	Transmembrane helix
+B9J08_000479	498019.A0A2H1A801	Pfam	PF01061	ABC-2 type transporter
+B9J08_000479	498019.A0A2H1A801	Pfam	PF06422	CDR ABC transporter
+B9J08_000479	498019.A0A2H1A801	Pfam	PF14510	ABC-transporter N-terminal
+B9J08_000479	498019.A0A2H1A801	InterPro	IPR003439	ABC transporter-like, ATP-binding domain
+B9J08_000479	498019.A0A2H1A801	InterPro	IPR003593	AAA+ ATPase domain
+B9J08_000479	498019.A0A2H1A801	InterPro	IPR005285	Pleiotropic drug resistance protein PDR/CDR
+B9J08_000479	498019.A0A2H1A801	InterPro	IPR010929	CDR ABC transporter
+B9J08_000479	498019.A0A2H1A801	InterPro	IPR013525	ABC-2 type transporter, transmembrane domain
+B9J08_000479	498019.A0A2H1A801	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+B9J08_000479	498019.A0A2H1A801	InterPro	IPR029481	Pleiotropic ABC efflux transporter, N-terminal domain
+B9J08_000479	498019.A0A2H1A801	InterPro	IPR034001	ATP-binding cassette transporter, PDR-like subfamily G, domain 1
+B9J08_000479	498019.A0A2H1A801	InterPro	IPR034003	ATP-binding cassette transporter, PDR-like subfamily G, domain 2
+B9J08_000479	498019.A0A2H1A801	InterPro	IPR043926	ABC transporter family G domain
+B9J08_000479	498019.A0A2H1A801	SMART	SM00382	ATPases associated with a variety of cellular activities
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0009889	Regulation of biosynthetic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0019216	Regulation of lipid metabolic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0019218	Regulation of steroid metabolic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0019222	Regulation of metabolic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0032443	Regulation of ergosterol biosynthetic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0046890	Regulation of lipid biosynthetic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0050789	Regulation of biological process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0050794	Regulation of cellular process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0050810	Regulation of steroid biosynthetic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0062012	Regulation of small molecule metabolic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0065007	Biological regulation
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0080090	Regulation of primary metabolic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:0106118	Regulation of sterol biosynthetic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Process	GO:1902930	Regulation of alcohol biosynthetic process
+B9J08_001847	498019.A0A2H0ZZQ6	GO Function	GO:0005488	Binding
+B9J08_001847	498019.A0A2H0ZZQ6	GO Function	GO:0020037	Heme binding
+B9J08_001847	498019.A0A2H0ZZQ6	GO Function	GO:0046906	Tetrapyrrole binding
+B9J08_001847	498019.A0A2H0ZZQ6	GO Component	GO:0005622	Intracellular anatomical structure
+B9J08_001847	498019.A0A2H0ZZQ6	GO Component	GO:0005737	Cytoplasm
+B9J08_001847	498019.A0A2H0ZZQ6	GO Component	GO:0012505	Endomembrane system
+B9J08_001847	498019.A0A2H0ZZQ6	GO Component	GO:0016020	Membrane
+B9J08_001847	498019.A0A2H0ZZQ6	GO Component	GO:0043226	Organelle
+B9J08_001847	498019.A0A2H0ZZQ6	GO Component	GO:0043227	Membrane-bounded organelle
+B9J08_001847	498019.A0A2H0ZZQ6	GO Component	GO:0043229	Intracellular organelle
+B9J08_001847	498019.A0A2H0ZZQ6	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B9J08_001847	498019.A0A2H0ZZQ6	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_001847	498019.A0A2H0ZZQ6	STRING clusters	CL:5124	Mixed, incl. Protein insertion into ER membrane, and GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain
+B9J08_001847	498019.A0A2H0ZZQ6	STRING clusters	CL:5185	Mostly uncharacterized, incl. PA14 domain, and Kinesin complex
+B9J08_001847	498019.A0A2H0ZZQ6	STRING clusters	CL:5221	Mixed, incl. PA14 domain, and Regulation of steroid metabolic process
+B9J08_001847	498019.A0A2H0ZZQ6	Reactome	MAP-168249	Innate Immune System
+B9J08_001847	498019.A0A2H0ZZQ6	Reactome	MAP-168256	Immune System
+B9J08_001847	498019.A0A2H0ZZQ6	Reactome	MAP-2262752	Cellular responses to stress
+B9J08_001847	498019.A0A2H0ZZQ6	Reactome	MAP-6798695	Neutrophil degranulation
+B9J08_001847	498019.A0A2H0ZZQ6	Reactome	MAP-8953897	Cellular responses to stimuli
+B9J08_001847	498019.A0A2H0ZZQ6	Reactome	MAP-9707616	Heme signaling
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0005737	Cytoplasm
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0005768	Endosome
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0012505	Endomembrane system
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0031410	Cytoplasmic vesicle
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0031982	Vesicle
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0097708	Intracellular vesicle
+B9J08_001847	498019.A0A2H0ZZQ6	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_001847	498019.A0A2H0ZZQ6	UniProt Keywords	KW-0256	Endoplasmic reticulum
+B9J08_001847	498019.A0A2H0ZZQ6	UniProt Keywords	KW-0349	Heme
+B9J08_001847	498019.A0A2H0ZZQ6	UniProt Keywords	KW-0408	Iron
+B9J08_001847	498019.A0A2H0ZZQ6	UniProt Keywords	KW-0479	Metal-binding
+B9J08_001847	498019.A0A2H0ZZQ6	UniProt Keywords	KW-0732	Signal
+B9J08_001847	498019.A0A2H0ZZQ6	InterPro	IPR001199	Cytochrome b5-like heme/steroid binding domain
+B9J08_001847	498019.A0A2H0ZZQ6	InterPro	IPR036400	Cytochrome b5-like heme/steroid binding domain superfamily
+B9J08_001847	498019.A0A2H0ZZQ6	InterPro	IPR050577	MAPR/Neuferricin/Neudesin-like
+B9J08_001847	498019.A0A2H0ZZQ6	SMART	SM01117	Cytochrome b5-like Heme/Steroid binding domain
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0006810	Transport
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0009636	Response to toxic substance
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0009987	Cellular process
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0042221	Response to chemical
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0042908	Xenobiotic transport
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0046618	Xenobiotic export from cell
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0050896	Response to stimulus
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0051179	Localization
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0051234	Establishment of localization
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0055085	Transmembrane transport
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0098754	Detoxification
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0140115	Export across plasma membrane
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:0140352	Export from cell
+B9J08_002451	498019.A0A2H0ZWG2	GO Process	GO:1990961	Xenobiotic detoxification by transmembrane export across the plasma membrane
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0000166	Nucleotide binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0003824	Catalytic activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0005215	Transporter activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0005488	Binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0005524	ATP binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0015399	Primary active transmembrane transporter activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0016462	Pyrophosphatase activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0016787	Hydrolase activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0016887	ATP hydrolysis activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0017076	Purine nucleotide binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0017111	Ribonucleoside triphosphate phosphatase activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0022804	Active transmembrane transporter activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0022857	Transmembrane transporter activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0030554	Adenyl nucleotide binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0032553	Ribonucleotide binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0032555	Purine ribonucleotide binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0032559	Adenyl ribonucleotide binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0036094	Small molecule binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0042626	ATPase-coupled transmembrane transporter activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0043167	Ion binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0043168	Anion binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0097367	Carbohydrate derivative binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0140359	ABC-type transporter activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:0140657	ATP-dependent activity
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:1901265	Nucleoside phosphate binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Function	GO:1901363	Heterocyclic compound binding
+B9J08_002451	498019.A0A2H0ZWG2	GO Component	GO:0016020	Membrane
+B9J08_002451	498019.A0A2H0ZWG2	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_002451	498019.A0A2H0ZWG2	STRING clusters	CL:8843	Mixed, incl. ABC-type transporter activity, and Antiporter activity
+B9J08_002451	498019.A0A2H0ZWG2	STRING clusters	CL:8844	Mixed, incl. ABC-type transporter activity, and MatE
+B9J08_002451	498019.A0A2H0ZWG2	STRING clusters	CL:8847	ABC-type transporter activity, and Amino acid/polyamine transporter I
+B9J08_002451	498019.A0A2H0ZWG2	STRING clusters	CL:8848	ABC-type transporter activity, and Peptidase family M20/M25/M40
+B9J08_002451	498019.A0A2H0ZWG2	STRING clusters	CL:8850	ABC-type transporter activity
+B9J08_002451	498019.A0A2H0ZWG2	STRING clusters	CL:8852	CDR ABC transporter, and Transport of RCbl within the body
+B9J08_002451	498019.A0A2H0ZWG2	KEGG	caur02010	ABC transporters
+B9J08_002451	498019.A0A2H0ZWG2	Reactome	MAP-1369062	ABC transporters in lipid homeostasis
+B9J08_002451	498019.A0A2H0ZWG2	Reactome	MAP-174824	Plasma lipoprotein assembly, remodeling, and clearance
+B9J08_002451	498019.A0A2H0ZWG2	Reactome	MAP-382551	Transport of small molecules
+B9J08_002451	498019.A0A2H0ZWG2	Reactome	MAP-382556	ABC-family proteins mediated transport
+B9J08_002451	498019.A0A2H0ZWG2	Reactome	MAP-8963899	Plasma lipoprotein remodeling
+B9J08_002451	498019.A0A2H0ZWG2	Reactome	MAP-8964058	HDL remodeling
+B9J08_002451	498019.A0A2H0ZWG2	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_002451	498019.A0A2H0ZWG2	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_002451	498019.A0A2H0ZWG2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_002451	498019.A0A2H0ZWG2	UniProt Keywords	KW-0067	ATP-binding
+B9J08_002451	498019.A0A2H0ZWG2	UniProt Keywords	KW-0472	Membrane
+B9J08_002451	498019.A0A2H0ZWG2	UniProt Keywords	KW-0547	Nucleotide-binding
+B9J08_002451	498019.A0A2H0ZWG2	UniProt Keywords	KW-0677	Repeat
+B9J08_002451	498019.A0A2H0ZWG2	UniProt Keywords	KW-0812	Transmembrane
+B9J08_002451	498019.A0A2H0ZWG2	UniProt Keywords	KW-0813	Transport
+B9J08_002451	498019.A0A2H0ZWG2	UniProt Keywords	KW-1133	Transmembrane helix
+B9J08_002451	498019.A0A2H0ZWG2	Pfam	PF01061	ABC-2 type transporter
+B9J08_002451	498019.A0A2H0ZWG2	Pfam	PF06422	CDR ABC transporter
+B9J08_002451	498019.A0A2H0ZWG2	Pfam	PF14510	ABC-transporter N-terminal
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR003439	ABC transporter-like, ATP-binding domain
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR003593	AAA+ ATPase domain
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR005285	Pleiotropic drug resistance protein PDR/CDR
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR010929	CDR ABC transporter
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR013525	ABC-2 type transporter, transmembrane domain
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR017871	ABC transporter-like, conserved site
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR029481	Pleiotropic ABC efflux transporter, N-terminal domain
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR034001	ATP-binding cassette transporter, PDR-like subfamily G, domain 1
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR034003	ATP-binding cassette transporter, PDR-like subfamily G, domain 2
+B9J08_002451	498019.A0A2H0ZWG2	InterPro	IPR043926	ABC transporter family G domain
+B9J08_002451	498019.A0A2H0ZWG2	SMART	SM00382	ATPases associated with a variety of cellular activities
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0006066	Alcohol metabolic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0006629	Lipid metabolic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0006694	Steroid biosynthetic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0006696	Ergosterol biosynthetic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0008152	Metabolic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0008202	Steroid metabolic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0008204	Ergosterol metabolic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0008610	Lipid biosynthetic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0009058	Biosynthetic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0009987	Cellular process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0016125	Sterol metabolic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0016126	Sterol biosynthetic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0016129	Phytosteroid biosynthetic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0044238	Primary metabolic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0044281	Small molecule metabolic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0044283	Small molecule biosynthetic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:0046165	Alcohol biosynthetic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:1902652	Secondary alcohol metabolic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Process	GO:1902653	Secondary alcohol biosynthetic process
+B9J08_002852	498019.A0A2H0ZRG0	GO Function	GO:0000246	Delta24(24-1) sterol reductase activity
+B9J08_002852	498019.A0A2H0ZRG0	GO Function	GO:0003824	Catalytic activity
+B9J08_002852	498019.A0A2H0ZRG0	GO Function	GO:0016491	Oxidoreductase activity
+B9J08_002852	498019.A0A2H0ZRG0	GO Function	GO:0016627	Oxidoreductase activity, acting on the CH-CH group of donors
+B9J08_002852	498019.A0A2H0ZRG0	GO Function	GO:0016628	Oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor
+B9J08_002852	498019.A0A2H0ZRG0	GO Function	GO:0050614	Delta24-sterol reductase activity
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0005622	Intracellular anatomical structure
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0005737	Cytoplasm
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0005783	Endoplasmic reticulum
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0005789	Endoplasmic reticulum membrane
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0012505	Endomembrane system
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0016020	Membrane
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0031090	Organelle membrane
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0031984	Organelle subcompartment
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0043226	Organelle
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0043227	Membrane-bounded organelle
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0043229	Intracellular organelle
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+B9J08_002852	498019.A0A2H0ZRG0	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_002852	498019.A0A2H0ZRG0	STRING clusters	CL:7082	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_002852	498019.A0A2H0ZRG0	STRING clusters	CL:7083	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_002852	498019.A0A2H0ZRG0	STRING clusters	CL:7084	Lipid biosynthetic process, and Cytochrome P450
+B9J08_002852	498019.A0A2H0ZRG0	STRING clusters	CL:7085	Mixed, incl. Alcohol biosynthetic process, and Sphingolipid metabolic process
+B9J08_002852	498019.A0A2H0ZRG0	STRING clusters	CL:7087	Ergosterol biosynthetic process, and Cytochrome P450
+B9J08_002852	498019.A0A2H0ZRG0	STRING clusters	CL:7090	Ergosterol biosynthetic process
+B9J08_002852	498019.A0A2H0ZRG0	KEGG	caur00100	Steroid biosynthesis
+B9J08_002852	498019.A0A2H0ZRG0	KEGG	caur01100	Metabolic pathways
+B9J08_002852	498019.A0A2H0ZRG0	KEGG	caur01110	Biosynthesis of secondary metabolites
+B9J08_002852	498019.A0A2H0ZRG0	Reactome	MAP-1430728	Metabolism
+B9J08_002852	498019.A0A2H0ZRG0	Reactome	MAP-191273	Cholesterol biosynthesis
+B9J08_002852	498019.A0A2H0ZRG0	Reactome	MAP-556833	Metabolism of lipids
+B9J08_002852	498019.A0A2H0ZRG0	Reactome	MAP-6807062	Cholesterol biosynthesis via lathosterol
+B9J08_002852	498019.A0A2H0ZRG0	Reactome	MAP-8957322	Metabolism of steroids
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0005737	Cytoplasm
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0005789	Endoplasmic reticulum membrane
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0012505	Endomembrane system
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0016020	Membrane
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0031090	Organelle membrane
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0031984	Organelle subcompartment
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0098827	Endoplasmic reticulum subcompartment
+B9J08_002852	498019.A0A2H0ZRG0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-0256	Endoplasmic reticulum
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-0443	Lipid metabolism
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-0444	Lipid biosynthesis
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-0472	Membrane
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-0521	NADP
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-0560	Oxidoreductase
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-0752	Steroid biosynthesis
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-0753	Steroid metabolism
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-0756	Sterol biosynthesis
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-0812	Transmembrane
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-1133	Transmembrane helix
+B9J08_002852	498019.A0A2H0ZRG0	UniProt Keywords	KW-1207	Sterol metabolism
+B9J08_002852	498019.A0A2H0ZRG0	Pfam	PF01222	Ergosterol biosynthesis ERG4/ERG24 family
+B9J08_002852	498019.A0A2H0ZRG0	InterPro	IPR001171	Sterol biosynthesis ERG24/DHCR-like
+B9J08_002852	498019.A0A2H0ZRG0	InterPro	IPR018083	Sterol reductase, conserved site
+B9J08_003737	498019.A0A2H0ZNC5	GO Process	GO:0006629	Lipid metabolic process
+B9J08_003737	498019.A0A2H0ZNC5	GO Process	GO:0008152	Metabolic process
+B9J08_003737	498019.A0A2H0ZNC5	GO Process	GO:0008610	Lipid biosynthetic process
+B9J08_003737	498019.A0A2H0ZNC5	GO Process	GO:0009058	Biosynthetic process
+B9J08_003737	498019.A0A2H0ZNC5	GO Process	GO:0009987	Cellular process
+B9J08_003737	498019.A0A2H0ZNC5	GO Process	GO:0044238	Primary metabolic process
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0000248	C-5 sterol desaturase activity
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0003824	Catalytic activity
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0005488	Binding
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0005506	Iron ion binding
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0016491	Oxidoreductase activity
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0016705	Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0016717	Oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0036094	Small molecule binding
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0043167	Ion binding
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0043169	Cation binding
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0046872	Metal ion binding
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0046914	Transition metal ion binding
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0050046	delta7-sterol 5(6)-desaturase activity
+B9J08_003737	498019.A0A2H0ZNC5	GO Function	GO:0070704	Sterol desaturase activity
+B9J08_003737	498019.A0A2H0ZNC5	GO Component	GO:0016020	Membrane
+B9J08_003737	498019.A0A2H0ZNC5	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_003737	498019.A0A2H0ZNC5	STRING clusters	CL:7082	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_003737	498019.A0A2H0ZNC5	STRING clusters	CL:7083	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_003737	498019.A0A2H0ZNC5	STRING clusters	CL:7084	Lipid biosynthetic process, and Cytochrome P450
+B9J08_003737	498019.A0A2H0ZNC5	STRING clusters	CL:7085	Mixed, incl. Alcohol biosynthetic process, and Sphingolipid metabolic process
+B9J08_003737	498019.A0A2H0ZNC5	STRING clusters	CL:7087	Ergosterol biosynthetic process, and Cytochrome P450
+B9J08_003737	498019.A0A2H0ZNC5	STRING clusters	CL:7090	Ergosterol biosynthetic process
+B9J08_003737	498019.A0A2H0ZNC5	STRING clusters	CL:7092	Steroid biosynthesis
+B9J08_003737	498019.A0A2H0ZNC5	KEGG	caur00100	Steroid biosynthesis
+B9J08_003737	498019.A0A2H0ZNC5	KEGG	caur01100	Metabolic pathways
+B9J08_003737	498019.A0A2H0ZNC5	KEGG	caur01110	Biosynthesis of secondary metabolites
+B9J08_003737	498019.A0A2H0ZNC5	Reactome	MAP-1430728	Metabolism
+B9J08_003737	498019.A0A2H0ZNC5	Reactome	MAP-191273	Cholesterol biosynthesis
+B9J08_003737	498019.A0A2H0ZNC5	Reactome	MAP-556833	Metabolism of lipids
+B9J08_003737	498019.A0A2H0ZNC5	Reactome	MAP-6807047	Cholesterol biosynthesis via desmosterol
+B9J08_003737	498019.A0A2H0ZNC5	Reactome	MAP-8957322	Metabolism of steroids
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0005737	Cytoplasm
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0005788	Endoplasmic reticulum lumen
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0012505	Endomembrane system
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0043233	Organelle lumen
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+B9J08_003737	498019.A0A2H0ZNC5	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_003737	498019.A0A2H0ZNC5	UniProt Keywords	KW-0472	Membrane
+B9J08_003737	498019.A0A2H0ZNC5	UniProt Keywords	KW-0560	Oxidoreductase
+B9J08_003737	498019.A0A2H0ZNC5	UniProt Keywords	KW-0812	Transmembrane
+B9J08_003737	498019.A0A2H0ZNC5	UniProt Keywords	KW-1133	Transmembrane helix
+B9J08_003737	498019.A0A2H0ZNC5	Pfam	PF04116	Fatty acid hydroxylase
+B9J08_003737	498019.A0A2H0ZNC5	InterPro	IPR006694	Fatty acid hydroxylase
+B9J08_003737	498019.A0A2H0ZNC5	InterPro	IPR050307	Sterol Desaturase and Related Enzymes
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0006810	Transport
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0006950	Response to stress
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0006979	Response to oxidative stress
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0009410	Response to xenobiotic stimulus
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0009636	Response to toxic substance
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0009987	Cellular process
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0015850	Organic hydroxy compound transport
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0015903	Fluconazole transport
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0033554	Cellular response to stress
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0034599	Cellular response to oxidative stress
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0042221	Response to chemical
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0042908	Xenobiotic transport
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0045117	Azole transmembrane transport
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0046618	Xenobiotic export from cell
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0046677	Response to antibiotic
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0046898	Response to cycloheximide
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0050896	Response to stimulus
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0051179	Localization
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0051234	Establishment of localization
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0051716	Cellular response to stimulus
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0055085	Transmembrane transport
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0062197	Cellular response to chemical stress
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0070887	Cellular response to chemical stimulus
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0071466	Cellular response to xenobiotic stimulus
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0071705	Nitrogen compound transport
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0097305	Response to alcohol
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0098754	Detoxification
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0140115	Export across plasma membrane
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:0140352	Export from cell
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:1901654	Response to ketone
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:1901698	Response to nitrogen compound
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:1901700	Response to oxygen-containing compound
+B9J08_003981	498019.A0A2H0ZP18	GO Process	GO:1990961	Xenobiotic detoxification by transmembrane export across the plasma membrane
+B9J08_003981	498019.A0A2H0ZP18	GO Function	GO:0005215	Transporter activity
+B9J08_003981	498019.A0A2H0ZP18	GO Function	GO:0015244	Fluconazole transmembrane transporter activity
+B9J08_003981	498019.A0A2H0ZP18	GO Function	GO:0015665	Alcohol transmembrane transporter activity
+B9J08_003981	498019.A0A2H0ZP18	GO Function	GO:0022857	Transmembrane transporter activity
+B9J08_003981	498019.A0A2H0ZP18	GO Function	GO:0042910	Xenobiotic transmembrane transporter activity
+B9J08_003981	498019.A0A2H0ZP18	GO Function	GO:1901474	Azole transmembrane transporter activity
+B9J08_003981	498019.A0A2H0ZP18	GO Component	GO:0005886	Plasma membrane
+B9J08_003981	498019.A0A2H0ZP18	GO Component	GO:0016020	Membrane
+B9J08_003981	498019.A0A2H0ZP18	GO Component	GO:0071944	Cell periphery
+B9J08_003981	498019.A0A2H0ZP18	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_003981	498019.A0A2H0ZP18	STRING clusters	CL:7082	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_003981	498019.A0A2H0ZP18	STRING clusters	CL:7083	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_003981	498019.A0A2H0ZP18	STRING clusters	CL:7084	Lipid biosynthetic process, and Cytochrome P450
+B9J08_003981	498019.A0A2H0ZP18	STRING clusters	CL:7085	Mixed, incl. Alcohol biosynthetic process, and Sphingolipid metabolic process
+B9J08_003981	498019.A0A2H0ZP18	Reactome	MAP-1430728	Metabolism
+B9J08_003981	498019.A0A2H0ZP18	Reactome	MAP-156580	Phase II - Conjugation of compounds
+B9J08_003981	498019.A0A2H0ZP18	Reactome	MAP-156590	Glutathione conjugation
+B9J08_003981	498019.A0A2H0ZP18	Reactome	MAP-211859	Biological oxidations
+B9J08_003981	498019.A0A2H0ZP18	Reactome	MAP-9033241	Peroxisomal protein import
+B9J08_003981	498019.A0A2H0ZP18	Reactome	MAP-9609507	Protein localization
+B9J08_003981	498019.A0A2H0ZP18	COMPARTMENTS	GOCC:0016020	Membrane
+B9J08_003981	498019.A0A2H0ZP18	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_003981	498019.A0A2H0ZP18	UniProt Keywords	KW-0472	Membrane
+B9J08_003981	498019.A0A2H0ZP18	UniProt Keywords	KW-0812	Transmembrane
+B9J08_003981	498019.A0A2H0ZP18	UniProt Keywords	KW-1133	Transmembrane helix
+B9J08_003981	498019.A0A2H0ZP18	Pfam	PF07690	Major Facilitator Superfamily
+B9J08_003981	498019.A0A2H0ZP18	InterPro	IPR004734	Multidrug resistance protein
+B9J08_003981	498019.A0A2H0ZP18	InterPro	IPR011701	Major facilitator superfamily
+B9J08_003981	498019.A0A2H0ZP18	InterPro	IPR036259	MFS transporter superfamily
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0002831	Regulation of response to biotic stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0002833	Positive regulation of response to biotic stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0006351	DNA-templated transcription
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0006355	Regulation of DNA-templated transcription
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0006950	Response to stress
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0006979	Response to oxidative stress
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0008152	Metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0009058	Biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0009059	Macromolecule biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0009410	Response to xenobiotic stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0009607	Response to biotic stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0009719	Response to endogenous stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0009725	Response to hormone
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0009889	Regulation of biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0009891	Positive regulation of biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0009893	Positive regulation of metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0009987	Cellular process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0010467	Gene expression
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0010468	Regulation of gene expression
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0010570	Regulation of filamentous growth
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0016070	RNA metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0019222	Regulation of metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0030447	Filamentous growth
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0032774	RNA biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0032870	Cellular response to hormone stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0033554	Cellular response to stress
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0033993	Response to lipid
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0034599	Cellular response to oxidative stress
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0036180	Filamentous growth of a population of unicellular organisms in response to biotic stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0040007	Growth
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0040008	Regulation of growth
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0042221	Response to chemical
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0043170	Macromolecule metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0044182	Filamentous growth of a population of unicellular organisms
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0044238	Primary metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0045927	Positive regulation of growth
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0048518	Positive regulation of biological process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0048522	Positive regulation of cellular process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0048545	Response to steroid hormone
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0048583	Regulation of response to stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0048584	Positive regulation of response to stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0050789	Regulation of biological process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0050794	Regulation of cellular process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0050896	Response to stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0051252	Regulation of RNA metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0051716	Cellular response to stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0062197	Cellular response to chemical stress
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0065007	Biological regulation
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0070887	Cellular response to chemical stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0071383	Cellular response to steroid hormone stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0071396	Cellular response to lipid
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0071466	Cellular response to xenobiotic stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0071495	Cellular response to endogenous stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0080090	Regulation of primary metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0090033	Positive regulation of filamentous growth
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0090304	Nucleic acid metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:0141187	Nucleic acid biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:1900428	Regulation of filamentous growth of a population of unicellular organisms
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:1900430	Positive regulation of filamentous growth of a population of unicellular organisms
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:1900443	Regulation of filamentous growth of a population of unicellular organisms in response to biotic stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:1900445	Positive regulation of filamentous growth of a population of unicellular organisms in response to biotic stimulus
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:2001023	Regulation of response to drug
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:2001038	Regulation of cellular response to drug
+B9J08_004819	498019.A0A2H0ZHR4	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0000976	Transcription cis-regulatory region binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0001216	DNA-binding transcription activator activity
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0003676	Nucleic acid binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0003677	DNA binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0003690	Double-stranded DNA binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0003700	DNA-binding transcription factor activity
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0003712	Transcription coregulator activity
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0003713	Transcription coactivator activity
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0005488	Binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0008270	Zinc ion binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0030674	Protein-macromolecule adaptor activity
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0036094	Small molecule binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0043167	Ion binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0043169	Cation binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0043565	Sequence-specific DNA binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0046872	Metal ion binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0046914	Transition metal ion binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0060090	Molecular adaptor activity
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:0140110	Transcription regulator activity
+B9J08_004819	498019.A0A2H0ZHR4	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+B9J08_004819	498019.A0A2H0ZHR4	GO Component	GO:0005622	Intracellular anatomical structure
+B9J08_004819	498019.A0A2H0ZHR4	GO Component	GO:0005634	Nucleus
+B9J08_004819	498019.A0A2H0ZHR4	GO Component	GO:0005667	Transcription regulator complex
+B9J08_004819	498019.A0A2H0ZHR4	GO Component	GO:0032991	Protein-containing complex
+B9J08_004819	498019.A0A2H0ZHR4	GO Component	GO:0043226	Organelle
+B9J08_004819	498019.A0A2H0ZHR4	GO Component	GO:0043227	Membrane-bounded organelle
+B9J08_004819	498019.A0A2H0ZHR4	GO Component	GO:0043229	Intracellular organelle
+B9J08_004819	498019.A0A2H0ZHR4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B9J08_004819	498019.A0A2H0ZHR4	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_004819	498019.A0A2H0ZHR4	STRING clusters	CL:7082	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_004819	498019.A0A2H0ZHR4	STRING clusters	CL:7083	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_004819	498019.A0A2H0ZHR4	STRING clusters	CL:7084	Lipid biosynthetic process, and Cytochrome P450
+B9J08_004819	498019.A0A2H0ZHR4	STRING clusters	CL:7085	Mixed, incl. Alcohol biosynthetic process, and Sphingolipid metabolic process
+B9J08_004819	498019.A0A2H0ZHR4	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9J08_004819	498019.A0A2H0ZHR4	COMPARTMENTS	GOCC:0005634	Nucleus
+B9J08_004819	498019.A0A2H0ZHR4	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+B9J08_004819	498019.A0A2H0ZHR4	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_004819	498019.A0A2H0ZHR4	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_004819	498019.A0A2H0ZHR4	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9J08_004819	498019.A0A2H0ZHR4	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9J08_004819	498019.A0A2H0ZHR4	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_004819	498019.A0A2H0ZHR4	UniProt Keywords	KW-0479	Metal-binding
+B9J08_004819	498019.A0A2H0ZHR4	UniProt Keywords	KW-0804	Transcription
+B9J08_004819	498019.A0A2H0ZHR4	UniProt Keywords	KW-0805	Transcription regulation
+B9J08_004819	498019.A0A2H0ZHR4	InterPro	IPR001138	Zn(2)Cys(6) fungal-type DNA-binding domain
+B9J08_004819	498019.A0A2H0ZHR4	InterPro	IPR007219	Xylanolytic transcriptional activator, regulatory domain
+B9J08_004819	498019.A0A2H0ZHR4	InterPro	IPR036864	Zn(2)-C6 fungal-type DNA-binding domain superfamily
+B9J08_004819	498019.A0A2H0ZHR4	InterPro	IPR050987	ABC-transporter-regulating transcription factor-like
+B9J08_004819	498019.A0A2H0ZHR4	SMART	SM00066	GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain
+B9J08_004819	498019.A0A2H0ZHR4	SMART	SM00906	Fungal specific transcription factor domain
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0006351	DNA-templated transcription
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0006355	Regulation of DNA-templated transcription
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0008152	Metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0009058	Biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0009059	Macromolecule biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0009889	Regulation of biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0009891	Positive regulation of biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0009893	Positive regulation of metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0009987	Cellular process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0010467	Gene expression
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0010468	Regulation of gene expression
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0016070	RNA metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0019222	Regulation of metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0032774	RNA biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0043170	Macromolecule metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0044238	Primary metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0048518	Positive regulation of biological process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0048522	Positive regulation of cellular process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0050789	Regulation of biological process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0050794	Regulation of cellular process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0051252	Regulation of RNA metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0065007	Biological regulation
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0080090	Regulation of primary metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0090304	Nucleic acid metabolic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:0141187	Nucleic acid biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0003676	Nucleic acid binding
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0003677	DNA binding
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0003700	DNA-binding transcription factor activity
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0005488	Binding
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0008270	Zinc ion binding
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0036094	Small molecule binding
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0043167	Ion binding
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0043169	Cation binding
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0046872	Metal ion binding
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0046914	Transition metal ion binding
+B9J08_004820	498019.A0A2H0ZHW2	GO Function	GO:0140110	Transcription regulator activity
+B9J08_004820	498019.A0A2H0ZHW2	GO Component	GO:0005622	Intracellular anatomical structure
+B9J08_004820	498019.A0A2H0ZHW2	GO Component	GO:0005634	Nucleus
+B9J08_004820	498019.A0A2H0ZHW2	GO Component	GO:0043226	Organelle
+B9J08_004820	498019.A0A2H0ZHW2	GO Component	GO:0043227	Membrane-bounded organelle
+B9J08_004820	498019.A0A2H0ZHW2	GO Component	GO:0043229	Intracellular organelle
+B9J08_004820	498019.A0A2H0ZHW2	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B9J08_004820	498019.A0A2H0ZHW2	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_004820	498019.A0A2H0ZHW2	STRING clusters	CL:4298	Mixed, incl. Zinc finger domain, and ABC-transporter-regulating transcription factor-like
+B9J08_004820	498019.A0A2H0ZHW2	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9J08_004820	498019.A0A2H0ZHW2	COMPARTMENTS	GOCC:0005634	Nucleus
+B9J08_004820	498019.A0A2H0ZHW2	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_004820	498019.A0A2H0ZHW2	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_004820	498019.A0A2H0ZHW2	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9J08_004820	498019.A0A2H0ZHW2	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9J08_004820	498019.A0A2H0ZHW2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_004820	498019.A0A2H0ZHW2	UniProt Keywords	KW-0479	Metal-binding
+B9J08_004820	498019.A0A2H0ZHW2	UniProt Keywords	KW-0804	Transcription
+B9J08_004820	498019.A0A2H0ZHW2	UniProt Keywords	KW-0805	Transcription regulation
+B9J08_004820	498019.A0A2H0ZHW2	InterPro	IPR001138	Zn(2)Cys(6) fungal-type DNA-binding domain
+B9J08_004820	498019.A0A2H0ZHW2	InterPro	IPR007219	Xylanolytic transcriptional activator, regulatory domain
+B9J08_004820	498019.A0A2H0ZHW2	InterPro	IPR036864	Zn(2)-C6 fungal-type DNA-binding domain superfamily
+B9J08_004820	498019.A0A2H0ZHW2	InterPro	IPR050987	ABC-transporter-regulating transcription factor-like
+B9J08_004820	498019.A0A2H0ZHW2	SMART	SM00066	GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain
+B9J08_004820	498019.A0A2H0ZHW2	SMART	SM00906	Fungal specific transcription factor domain
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0006066	Alcohol metabolic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0006629	Lipid metabolic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0006694	Steroid biosynthetic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0006696	Ergosterol biosynthetic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0008152	Metabolic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0008202	Steroid metabolic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0008204	Ergosterol metabolic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0008610	Lipid biosynthetic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0009058	Biosynthetic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0009987	Cellular process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0016125	Sterol metabolic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0016126	Sterol biosynthetic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0016129	Phytosteroid biosynthetic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0044238	Primary metabolic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0044281	Small molecule metabolic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0044283	Small molecule biosynthetic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:0046165	Alcohol biosynthetic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:1902652	Secondary alcohol metabolic process
+B9J08_004943	498019.A0A2H0ZC88	GO Process	GO:1902653	Secondary alcohol biosynthetic process
+B9J08_004943	498019.A0A2H0ZC88	GO Function	GO:0000247	C-8 sterol isomerase activity
+B9J08_004943	498019.A0A2H0ZC88	GO Function	GO:0003824	Catalytic activity
+B9J08_004943	498019.A0A2H0ZC88	GO Function	GO:0016853	Isomerase activity
+B9J08_004943	498019.A0A2H0ZC88	GO Function	GO:0016860	Intramolecular oxidoreductase activity
+B9J08_004943	498019.A0A2H0ZC88	GO Function	GO:0016863	Intramolecular oxidoreductase activity, transposing C=C bonds
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0005622	Intracellular anatomical structure
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0005737	Cytoplasm
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0005783	Endoplasmic reticulum
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0005789	Endoplasmic reticulum membrane
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0012505	Endomembrane system
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0016020	Membrane
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0031090	Organelle membrane
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0031984	Organelle subcompartment
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0043226	Organelle
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0043227	Membrane-bounded organelle
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0043229	Intracellular organelle
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+B9J08_004943	498019.A0A2H0ZC88	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_004943	498019.A0A2H0ZC88	STRING clusters	CL:7082	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_004943	498019.A0A2H0ZC88	STRING clusters	CL:7083	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_004943	498019.A0A2H0ZC88	STRING clusters	CL:7084	Lipid biosynthetic process, and Cytochrome P450
+B9J08_004943	498019.A0A2H0ZC88	STRING clusters	CL:7085	Mixed, incl. Alcohol biosynthetic process, and Sphingolipid metabolic process
+B9J08_004943	498019.A0A2H0ZC88	STRING clusters	CL:7087	Ergosterol biosynthetic process, and Cytochrome P450
+B9J08_004943	498019.A0A2H0ZC88	STRING clusters	CL:7090	Ergosterol biosynthetic process
+B9J08_004943	498019.A0A2H0ZC88	STRING clusters	CL:7092	Steroid biosynthesis
+B9J08_004943	498019.A0A2H0ZC88	KEGG	caur00100	Steroid biosynthesis
+B9J08_004943	498019.A0A2H0ZC88	KEGG	caur01100	Metabolic pathways
+B9J08_004943	498019.A0A2H0ZC88	KEGG	caur01110	Biosynthesis of secondary metabolites
+B9J08_004943	498019.A0A2H0ZC88	Reactome	MAP-1643685	Disease
+B9J08_004943	498019.A0A2H0ZC88	Reactome	MAP-5663205	Infectious disease
+B9J08_004943	498019.A0A2H0ZC88	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9J08_004943	498019.A0A2H0ZC88	COMPARTMENTS	GOCC:0005737	Cytoplasm
+B9J08_004943	498019.A0A2H0ZC88	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+B9J08_004943	498019.A0A2H0ZC88	COMPARTMENTS	GOCC:0012505	Endomembrane system
+B9J08_004943	498019.A0A2H0ZC88	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_004943	498019.A0A2H0ZC88	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_004943	498019.A0A2H0ZC88	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9J08_004943	498019.A0A2H0ZC88	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9J08_004943	498019.A0A2H0ZC88	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_004943	498019.A0A2H0ZC88	UniProt Keywords	KW-0256	Endoplasmic reticulum
+B9J08_004943	498019.A0A2H0ZC88	UniProt Keywords	KW-0472	Membrane
+B9J08_004943	498019.A0A2H0ZC88	UniProt Keywords	KW-0732	Signal
+B9J08_004943	498019.A0A2H0ZC88	UniProt Keywords	KW-0812	Transmembrane
+B9J08_004943	498019.A0A2H0ZC88	UniProt Keywords	KW-1133	Transmembrane helix
+B9J08_004943	498019.A0A2H0ZC88	Pfam	PF04622	ERG2 and Sigma1 receptor like protein
+B9J08_004943	498019.A0A2H0ZC88	InterPro	IPR006716	ERG2/sigma1 receptor-like
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0006066	Alcohol metabolic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0006629	Lipid metabolic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0006694	Steroid biosynthetic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0006696	Ergosterol biosynthetic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0008152	Metabolic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0008202	Steroid metabolic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0008204	Ergosterol metabolic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0008610	Lipid biosynthetic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0009058	Biosynthetic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0009987	Cellular process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0016125	Sterol metabolic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0016126	Sterol biosynthetic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0016129	Phytosteroid biosynthetic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0044238	Primary metabolic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0044281	Small molecule metabolic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0044283	Small molecule biosynthetic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:0046165	Alcohol biosynthetic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:1902652	Secondary alcohol metabolic process
+B9J08_005230	498019.A0A2H0ZD52	GO Process	GO:1902653	Secondary alcohol biosynthetic process
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0000254	C-4 methylsterol oxidase activity
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0003824	Catalytic activity
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0004497	Monooxygenase activity
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0005488	Binding
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0005506	Iron ion binding
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0016491	Oxidoreductase activity
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0016705	Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0016716	Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0036094	Small molecule binding
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0043167	Ion binding
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0043169	Cation binding
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0046872	Metal ion binding
+B9J08_005230	498019.A0A2H0ZD52	GO Function	GO:0046914	Transition metal ion binding
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0005622	Intracellular anatomical structure
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0005737	Cytoplasm
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0005783	Endoplasmic reticulum
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0005789	Endoplasmic reticulum membrane
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0012505	Endomembrane system
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0016020	Membrane
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0031090	Organelle membrane
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0031984	Organelle subcompartment
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0043226	Organelle
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0043227	Membrane-bounded organelle
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0043229	Intracellular organelle
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+B9J08_005230	498019.A0A2H0ZD52	GO Component	GO:0110165	Cellular anatomical structure
+B9J08_005230	498019.A0A2H0ZD52	STRING clusters	CL:7082	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_005230	498019.A0A2H0ZD52	STRING clusters	CL:7083	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+B9J08_005230	498019.A0A2H0ZD52	STRING clusters	CL:7084	Lipid biosynthetic process, and Cytochrome P450
+B9J08_005230	498019.A0A2H0ZD52	STRING clusters	CL:7085	Mixed, incl. Alcohol biosynthetic process, and Sphingolipid metabolic process
+B9J08_005230	498019.A0A2H0ZD52	STRING clusters	CL:7087	Ergosterol biosynthetic process, and Cytochrome P450
+B9J08_005230	498019.A0A2H0ZD52	STRING clusters	CL:7090	Ergosterol biosynthetic process
+B9J08_005230	498019.A0A2H0ZD52	KEGG	caur03010	Ribosome
+B9J08_005230	498019.A0A2H0ZD52	Reactome	MAP-1430728	Metabolism
+B9J08_005230	498019.A0A2H0ZD52	Reactome	MAP-191273	Cholesterol biosynthesis
+B9J08_005230	498019.A0A2H0ZD52	Reactome	MAP-192105	Synthesis of bile acids and bile salts
+B9J08_005230	498019.A0A2H0ZD52	Reactome	MAP-194068	Bile acid and bile salt metabolism
+B9J08_005230	498019.A0A2H0ZD52	Reactome	MAP-556833	Metabolism of lipids
+B9J08_005230	498019.A0A2H0ZD52	Reactome	MAP-8957322	Metabolism of steroids
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0005737	Cytoplasm
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0005789	Endoplasmic reticulum membrane
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0005886	Plasma membrane
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0012505	Endomembrane system
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0016020	Membrane
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0031090	Organelle membrane
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0031984	Organelle subcompartment
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0043226	Organelle
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0071944	Cell periphery
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0098827	Endoplasmic reticulum subcompartment
+B9J08_005230	498019.A0A2H0ZD52	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9J08_005230	498019.A0A2H0ZD52	UniProt Keywords	KW-0560	Oxidoreductase
+B9J08_005230	498019.A0A2H0ZD52	UniProt Keywords	KW-0687	Ribonucleoprotein
+B9J08_005230	498019.A0A2H0ZD52	UniProt Keywords	KW-0689	Ribosomal protein
+B9J08_005230	498019.A0A2H0ZD52	Pfam	PF01775	Ribosomal proteins 50S-L18Ae/60S-L20/60S-L18A
+B9J08_005230	498019.A0A2H0ZD52	InterPro	IPR006694	Fatty acid hydroxylase
+B9J08_005230	498019.A0A2H0ZD52	InterPro	IPR021138	Large ribosomal subunit protein eL20, eukaryotes
+B9J08_005230	498019.A0A2H0ZD52	InterPro	IPR023573	Large ribosomal subunit protein eL20 domain
+B9J08_005230	498019.A0A2H0ZD52	InterPro	IPR028877	Large ribosomal subunit protein eL20
+Erg11	498019.A0A2H1A309	GO Process	GO:0006066	Alcohol metabolic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0006629	Lipid metabolic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0006694	Steroid biosynthetic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0006696	Ergosterol biosynthetic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0008152	Metabolic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0008202	Steroid metabolic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0008204	Ergosterol metabolic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0008610	Lipid biosynthetic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0009058	Biosynthetic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0009987	Cellular process
+Erg11	498019.A0A2H1A309	GO Process	GO:0016125	Sterol metabolic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0016126	Sterol biosynthetic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0016129	Phytosteroid biosynthetic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0044238	Primary metabolic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0044281	Small molecule metabolic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0044283	Small molecule biosynthetic process
+Erg11	498019.A0A2H1A309	GO Process	GO:0046165	Alcohol biosynthetic process
+Erg11	498019.A0A2H1A309	GO Process	GO:1902652	Secondary alcohol metabolic process
+Erg11	498019.A0A2H1A309	GO Process	GO:1902653	Secondary alcohol biosynthetic process
+Erg11	498019.A0A2H1A309	GO Function	GO:0003824	Catalytic activity
+Erg11	498019.A0A2H1A309	GO Function	GO:0004497	Monooxygenase activity
+Erg11	498019.A0A2H1A309	GO Function	GO:0005488	Binding
+Erg11	498019.A0A2H1A309	GO Function	GO:0005506	Iron ion binding
+Erg11	498019.A0A2H1A309	GO Function	GO:0008398	Sterol 14-demethylase activity
+Erg11	498019.A0A2H1A309	GO Function	GO:0016491	Oxidoreductase activity
+Erg11	498019.A0A2H1A309	GO Function	GO:0016705	Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+Erg11	498019.A0A2H1A309	GO Function	GO:0016709	Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+Erg11	498019.A0A2H1A309	GO Function	GO:0020037	Heme binding
+Erg11	498019.A0A2H1A309	GO Function	GO:0032451	Demethylase activity
+Erg11	498019.A0A2H1A309	GO Function	GO:0036094	Small molecule binding
+Erg11	498019.A0A2H1A309	GO Function	GO:0043167	Ion binding
+Erg11	498019.A0A2H1A309	GO Function	GO:0043169	Cation binding
+Erg11	498019.A0A2H1A309	GO Function	GO:0046872	Metal ion binding
+Erg11	498019.A0A2H1A309	GO Function	GO:0046906	Tetrapyrrole binding
+Erg11	498019.A0A2H1A309	GO Function	GO:0046914	Transition metal ion binding
+Erg11	498019.A0A2H1A309	GO Component	GO:0016020	Membrane
+Erg11	498019.A0A2H1A309	GO Component	GO:0110165	Cellular anatomical structure
+Erg11	498019.A0A2H1A309	STRING clusters	CL:7082	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+Erg11	498019.A0A2H1A309	STRING clusters	CL:7083	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+Erg11	498019.A0A2H1A309	STRING clusters	CL:7084	Lipid biosynthetic process, and Cytochrome P450
+Erg11	498019.A0A2H1A309	STRING clusters	CL:7085	Mixed, incl. Alcohol biosynthetic process, and Sphingolipid metabolic process
+Erg11	498019.A0A2H1A309	STRING clusters	CL:7087	Ergosterol biosynthetic process, and Cytochrome P450
+Erg11	498019.A0A2H1A309	STRING clusters	CL:7090	Ergosterol biosynthetic process
+Erg11	498019.A0A2H1A309	STRING clusters	CL:7092	Steroid biosynthesis
+Erg11	498019.A0A2H1A309	STRING clusters	CL:7096	Steroid dehydrogenase activity, and Sterol metabolism
+Erg11	498019.A0A2H1A309	KEGG	caur00100	Steroid biosynthesis
+Erg11	498019.A0A2H1A309	KEGG	caur01100	Metabolic pathways
+Erg11	498019.A0A2H1A309	KEGG	caur01110	Biosynthesis of secondary metabolites
+Erg11	498019.A0A2H1A309	Reactome	MAP-1430728	Metabolism
+Erg11	498019.A0A2H1A309	Reactome	MAP-191273	Cholesterol biosynthesis
+Erg11	498019.A0A2H1A309	Reactome	MAP-211859	Biological oxidations
+Erg11	498019.A0A2H1A309	Reactome	MAP-211897	Cytochrome P450 - arranged by substrate type
+Erg11	498019.A0A2H1A309	Reactome	MAP-211945	Phase I - Functionalization of compounds
+Erg11	498019.A0A2H1A309	Reactome	MAP-211976	Endogenous sterols
+Erg11	498019.A0A2H1A309	Reactome	MAP-556833	Metabolism of lipids
+Erg11	498019.A0A2H1A309	Reactome	MAP-8957322	Metabolism of steroids
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0012505	Endomembrane system
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0016020	Membrane
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0043226	Organelle
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+Erg11	498019.A0A2H1A309	COMPARTMENTS	GOCC:1990281	Efflux pump complex
+Erg11	498019.A0A2H1A309	UniProt Keywords	KW-0349	Heme
+Erg11	498019.A0A2H1A309	UniProt Keywords	KW-0408	Iron
+Erg11	498019.A0A2H1A309	UniProt Keywords	KW-0472	Membrane
+Erg11	498019.A0A2H1A309	UniProt Keywords	KW-0479	Metal-binding
+Erg11	498019.A0A2H1A309	UniProt Keywords	KW-0489	Methyltransferase
+Erg11	498019.A0A2H1A309	UniProt Keywords	KW-0503	Monooxygenase
+Erg11	498019.A0A2H1A309	UniProt Keywords	KW-0560	Oxidoreductase
+Erg11	498019.A0A2H1A309	UniProt Keywords	KW-0808	Transferase
+Erg11	498019.A0A2H1A309	UniProt Keywords	KW-0812	Transmembrane
+Erg11	498019.A0A2H1A309	UniProt Keywords	KW-1133	Transmembrane helix
+Erg11	498019.A0A2H1A309	Pfam	PF00067	Cytochrome P450
+Erg11	498019.A0A2H1A309	InterPro	IPR001128	Cytochrome P450
+Erg11	498019.A0A2H1A309	InterPro	IPR002403	Cytochrome P450, E-class, group IV
+Erg11	498019.A0A2H1A309	InterPro	IPR017972	Cytochrome P450, conserved site
+Erg11	498019.A0A2H1A309	InterPro	IPR036396	Cytochrome P450 superfamily
+Erg11	498019.A0A2H1A309	InterPro	IPR050121	Cytochrome P450 monooxygenase
+Erg11	498019.A0A2H1A309	InterPro	IPR050529	Cytochrome P450, sterol 14-alpha demethylase
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0006810	Transport
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0009636	Response to toxic substance
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0009987	Cellular process
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0042221	Response to chemical
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0042908	Xenobiotic transport
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0046618	Xenobiotic export from cell
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0050896	Response to stimulus
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0051179	Localization
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0051234	Establishment of localization
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0055085	Transmembrane transport
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0098754	Detoxification
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0140115	Export across plasma membrane
+XP_028892569	498019.A0A2H1A768	GO Process	GO:0140352	Export from cell
+XP_028892569	498019.A0A2H1A768	GO Process	GO:1990961	Xenobiotic detoxification by transmembrane export across the plasma membrane
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0000166	Nucleotide binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0003824	Catalytic activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0005215	Transporter activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0005488	Binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0005524	ATP binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0015399	Primary active transmembrane transporter activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0016462	Pyrophosphatase activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0016787	Hydrolase activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0016887	ATP hydrolysis activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0017076	Purine nucleotide binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0017111	Ribonucleoside triphosphate phosphatase activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0022804	Active transmembrane transporter activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0022857	Transmembrane transporter activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0030554	Adenyl nucleotide binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0032553	Ribonucleotide binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0032555	Purine ribonucleotide binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0032559	Adenyl ribonucleotide binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0036094	Small molecule binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0042626	ATPase-coupled transmembrane transporter activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0043167	Ion binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0043168	Anion binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0097367	Carbohydrate derivative binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0140359	ABC-type transporter activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:0140657	ATP-dependent activity
+XP_028892569	498019.A0A2H1A768	GO Function	GO:1901265	Nucleoside phosphate binding
+XP_028892569	498019.A0A2H1A768	GO Function	GO:1901363	Heterocyclic compound binding
+XP_028892569	498019.A0A2H1A768	GO Component	GO:0005886	Plasma membrane
+XP_028892569	498019.A0A2H1A768	GO Component	GO:0016020	Membrane
+XP_028892569	498019.A0A2H1A768	GO Component	GO:0071944	Cell periphery
+XP_028892569	498019.A0A2H1A768	GO Component	GO:0110165	Cellular anatomical structure
+XP_028892569	498019.A0A2H1A768	STRING clusters	CL:8843	Mixed, incl. ABC-type transporter activity, and Antiporter activity
+XP_028892569	498019.A0A2H1A768	STRING clusters	CL:8844	Mixed, incl. ABC-type transporter activity, and MatE
+XP_028892569	498019.A0A2H1A768	STRING clusters	CL:8847	ABC-type transporter activity, and Amino acid/polyamine transporter I
+XP_028892569	498019.A0A2H1A768	STRING clusters	CL:8848	ABC-type transporter activity, and Peptidase family M20/M25/M40
+XP_028892569	498019.A0A2H1A768	STRING clusters	CL:8850	ABC-type transporter activity
+XP_028892569	498019.A0A2H1A768	STRING clusters	CL:8852	CDR ABC transporter, and Transport of RCbl within the body
+XP_028892569	498019.A0A2H1A768	KEGG	caur02010	ABC transporters
+XP_028892569	498019.A0A2H1A768	Reactome	MAP-1369062	ABC transporters in lipid homeostasis
+XP_028892569	498019.A0A2H1A768	Reactome	MAP-174824	Plasma lipoprotein assembly, remodeling, and clearance
+XP_028892569	498019.A0A2H1A768	Reactome	MAP-382551	Transport of small molecules
+XP_028892569	498019.A0A2H1A768	Reactome	MAP-382556	ABC-family proteins mediated transport
+XP_028892569	498019.A0A2H1A768	Reactome	MAP-8963899	Plasma lipoprotein remodeling
+XP_028892569	498019.A0A2H1A768	Reactome	MAP-8964058	HDL remodeling
+XP_028892569	498019.A0A2H1A768	COMPARTMENTS	GOCC:0043226	Organelle
+XP_028892569	498019.A0A2H1A768	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+XP_028892569	498019.A0A2H1A768	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+XP_028892569	498019.A0A2H1A768	UniProt Keywords	KW-0067	ATP-binding
+XP_028892569	498019.A0A2H1A768	UniProt Keywords	KW-0472	Membrane
+XP_028892569	498019.A0A2H1A768	UniProt Keywords	KW-0547	Nucleotide-binding
+XP_028892569	498019.A0A2H1A768	UniProt Keywords	KW-0677	Repeat
+XP_028892569	498019.A0A2H1A768	UniProt Keywords	KW-0812	Transmembrane
+XP_028892569	498019.A0A2H1A768	UniProt Keywords	KW-0813	Transport
+XP_028892569	498019.A0A2H1A768	UniProt Keywords	KW-1003	Cell membrane
+XP_028892569	498019.A0A2H1A768	UniProt Keywords	KW-1133	Transmembrane helix
+XP_028892569	498019.A0A2H1A768	Pfam	PF01061	ABC-2 type transporter
+XP_028892569	498019.A0A2H1A768	Pfam	PF06422	CDR ABC transporter
+XP_028892569	498019.A0A2H1A768	Pfam	PF14510	ABC-transporter N-terminal
+XP_028892569	498019.A0A2H1A768	InterPro	IPR003439	ABC transporter-like, ATP-binding domain
+XP_028892569	498019.A0A2H1A768	InterPro	IPR003593	AAA+ ATPase domain
+XP_028892569	498019.A0A2H1A768	InterPro	IPR005285	Pleiotropic drug resistance protein PDR/CDR
+XP_028892569	498019.A0A2H1A768	InterPro	IPR010929	CDR ABC transporter
+XP_028892569	498019.A0A2H1A768	InterPro	IPR013525	ABC-2 type transporter, transmembrane domain
+XP_028892569	498019.A0A2H1A768	InterPro	IPR017871	ABC transporter-like, conserved site
+XP_028892569	498019.A0A2H1A768	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+XP_028892569	498019.A0A2H1A768	InterPro	IPR029481	Pleiotropic ABC efflux transporter, N-terminal domain
+XP_028892569	498019.A0A2H1A768	InterPro	IPR034001	ATP-binding cassette transporter, PDR-like subfamily G, domain 1
+XP_028892569	498019.A0A2H1A768	InterPro	IPR034003	ATP-binding cassette transporter, PDR-like subfamily G, domain 2
+XP_028892569	498019.A0A2H1A768	SMART	SM00382	ATPases associated with a variety of cellular activities
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0006355	Regulation of DNA-templated transcription
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0009889	Regulation of biosynthetic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0009891	Positive regulation of biosynthetic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0009893	Positive regulation of metabolic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0010468	Regulation of gene expression
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0019222	Regulation of metabolic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0048518	Positive regulation of biological process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0048522	Positive regulation of cellular process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0050789	Regulation of biological process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0050794	Regulation of cellular process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0051252	Regulation of RNA metabolic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0065007	Biological regulation
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:0080090	Regulation of primary metabolic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+XP_028892667	498019.A0A2H1A7H1	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0000976	Transcription cis-regulatory region binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0001216	DNA-binding transcription activator activity
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0003676	Nucleic acid binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0003677	DNA binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0003690	Double-stranded DNA binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0003700	DNA-binding transcription factor activity
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0005488	Binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0008270	Zinc ion binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0036094	Small molecule binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0043167	Ion binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0043169	Cation binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0043565	Sequence-specific DNA binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0046872	Metal ion binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0046914	Transition metal ion binding
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:0140110	Transcription regulator activity
+XP_028892667	498019.A0A2H1A7H1	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+XP_028892667	498019.A0A2H1A7H1	GO Component	GO:0005622	Intracellular anatomical structure
+XP_028892667	498019.A0A2H1A7H1	GO Component	GO:0005737	Cytoplasm
+XP_028892667	498019.A0A2H1A7H1	GO Component	GO:0016020	Membrane
+XP_028892667	498019.A0A2H1A7H1	GO Component	GO:0048471	Perinuclear region of cytoplasm
+XP_028892667	498019.A0A2H1A7H1	GO Component	GO:0110165	Cellular anatomical structure
+XP_028892667	498019.A0A2H1A7H1	STRING clusters	CL:7082	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+XP_028892667	498019.A0A2H1A7H1	STRING clusters	CL:7083	Mixed, incl. Lipid biosynthetic process, and Cytochrome P450
+XP_028892667	498019.A0A2H1A7H1	STRING clusters	CL:7084	Lipid biosynthetic process, and Cytochrome P450
+XP_028892667	498019.A0A2H1A7H1	STRING clusters	CL:7085	Mixed, incl. Alcohol biosynthetic process, and Sphingolipid metabolic process
+XP_028892667	498019.A0A2H1A7H1	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+XP_028892667	498019.A0A2H1A7H1	COMPARTMENTS	GOCC:0005737	Cytoplasm
+XP_028892667	498019.A0A2H1A7H1	COMPARTMENTS	GOCC:0016020	Membrane
+XP_028892667	498019.A0A2H1A7H1	COMPARTMENTS	GOCC:0048471	Perinuclear region of cytoplasm
+XP_028892667	498019.A0A2H1A7H1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+XP_028892667	498019.A0A2H1A7H1	Pfam	PF11951	Fungal specific transcription factor domain
+XP_028892667	498019.A0A2H1A7H1	InterPro	IPR001138	Zn(2)Cys(6) fungal-type DNA-binding domain
+XP_028892667	498019.A0A2H1A7H1	InterPro	IPR001611	Leucine-rich repeat
+XP_028892667	498019.A0A2H1A7H1	InterPro	IPR021858	Fungal transcription factor
+XP_028892667	498019.A0A2H1A7H1	InterPro	IPR036864	Zn(2)-C6 fungal-type DNA-binding domain superfamily
+XP_028892667	498019.A0A2H1A7H1	InterPro	IPR053157	Sterol Uptake Control Transcription Regulator
+XP_028892667	498019.A0A2H1A7H1	SMART	SM00066	GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain
